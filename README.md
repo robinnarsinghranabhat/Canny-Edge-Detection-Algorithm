@@ -1,6 +1,7 @@
 # Implementing Canny Edge Detection Algorithm
 ### Original Image
-![Original Image](plates/2.png)
+<img src="plates/pred_img.png" alt="Alt text" width="300">
+
 ### Different Stages of Edge Detection
 https://en.wikipedia.org/wiki/Canny_edge_detector
 ![Edge Detection Process](edge_detection_process.png)
